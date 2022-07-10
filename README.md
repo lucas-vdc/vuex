@@ -1,5 +1,8 @@
 # vuex-skeleton
 
+## Description
+This is an example of Vuex using all the basic functionalities.
+
 ## Project setup
 ```
 npm install
